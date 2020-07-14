@@ -6,15 +6,15 @@ This repository contains the code used for all experiments in the paper Attack-a
 
 These images are further examples to those shown in Figure 3. They are random samples from the MIMIC-CXR dataset, their PGD peturbation and the SHAP values of our Densenet121 classification model have been overlayed ontop of each image.
 
-| Normal Sample                  | PGD Perturbed Sample          |
-|--------------------------------|-------------------------------|
-| ![](images/0-norm-overlay.jpg) | ![](images/0-adv-overlay.jpg) |
-| ![](images/1-norm-overlay.jpg) | ![](images/1-adv-overlay.jpg) |
-| ![](images/2-norm-overlay.jpg) | ![](images/2-adv-overlay.jpg) |
-| ![](images/3-norm-overlay.jpg) | ![](images/3-adv-overlay.jpg) |
-| ![](images/4-norm-overlay.jpg) | ![](images/4-adv-overlay.jpg) |
-| ![](images/5-norm-overlay.jpg) | ![](images/5-adv-overlay.jpg) |
-| ![](images/6-norm-overlay.jpg) | ![](images/6-adv-overlay.jpg) |
-| ![](images/7-norm-overlay.jpg) | ![](images/7-adv-overlay.jpg) |
-| ![](images/8-norm-overlay.jpg) | ![](images/8-adv-overlay.jpg) |
-| ![](images/9-norm-overlay.jpg) | ![](images/9-adv-overlay.jpg) |
+| Normal Sample                  | PGD Perturbed Sample          | C&W Perturbed samples        |
+|--------------------------------|-------------------------------| -----------------------------|
+| ![](images/0-norm-overlay.jpg) | ![](images/0-adv-overlay.jpg) | ![](images/0-cw-overlay.jpg) |
+| ![](images/1-norm-overlay.jpg) | ![](images/1-adv-overlay.jpg) | ![](images/1-cw-overlay.jpg) |
+| ![](images/2-norm-overlay.jpg) | ![](images/2-adv-overlay.jpg) | ![](images/2-cw-overlay.jpg) |
+| ![](images/3-norm-overlay.jpg) | ![](images/3-adv-overlay.jpg) | ![](images/3-cw-overlay.jpg) |
+| ![](images/4-norm-overlay.jpg) | ![](images/4-adv-overlay.jpg) | ![](images/4-cw-overlay.jpg) |
+| ![](images/5-norm-overlay.jpg) | ![](images/5-adv-overlay.jpg) | ![](images/5-cw-overlay.jpg) |
+| ![](images/6-norm-overlay.jpg) | ![](images/6-adv-overlay.jpg) | ![](images/6-cw-overlay.jpg) |
+| ![](images/7-norm-overlay.jpg) | ![](images/7-adv-overlay.jpg) | ![](images/7-cw-overlay.jpg) |
+| ![](images/8-norm-overlay.jpg) | ![](images/8-adv-overlay.jpg) | ![](images/8-cw-overlay.jpg) |
+| ![](images/9-norm-overlay.jpg) | ![](images/9-adv-overlay.jpg) | ![](images/9-cw-overlay.jpg) |
