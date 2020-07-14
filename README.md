@@ -16,5 +16,4 @@ These images are further examples to those shown in Figure 3. They are random sa
 | ![](images/5-norm-overlay.jpg) | ![](images/5-adv-overlay.jpg) | ![](images/5-cw-overlay.jpg) |
 | ![](images/6-norm-overlay.jpg) | ![](images/6-adv-overlay.jpg) | ![](images/6-cw-overlay.jpg) |
 | ![](images/7-norm-overlay.jpg) | ![](images/7-adv-overlay.jpg) | ![](images/7-cw-overlay.jpg) |
-| ![](images/8-norm-overlay.jpg) | ![](images/8-adv-overlay.jpg) | ![](images/8-cw-overlay.jpg) |
 | ![](images/9-norm-overlay.jpg) | ![](images/9-adv-overlay.jpg) | ![](images/9-cw-overlay.jpg) |
